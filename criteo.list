@@ -1,3 +1,4 @@
-#Criteo所有域名直连
+#Criteo所有代理链接
 DOMAIN-SUFFIX,criteo
 DOMAIN-SUFFIX,marketing.criteo.com
+DOMAIN-SUFFIX,account.criteo.com
